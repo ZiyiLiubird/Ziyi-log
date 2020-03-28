@@ -1,30 +1,32 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ZiyiLiubird/ZiyiLiu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ziyi Liu(刘子毅）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 教育经历：[武汉理工大学](http://www.whut.edu.cn/) 数学基地班( 本科三年级在读)
 
-- Bulleted
-- List
+## 研究兴趣：
+- 深度学习泛化理论
+- 无监督学习
+- 强化学习
+- 计算机视觉
+- 信息检索
 
-1. Numbered
-2. List
+## 获奖情况：
+- 2019年美国大学生数学建模竞赛Meritorious Winner
+- 2019年MathorCup数学建模竞赛二等奖
+- 2019年CCF CSP专业组认证210分
+- 2019年校三好学生
+- 2018年华中地区数学建模竞赛三等奖
+- 2018年校三好学生
 
-**Bold** and _Italic_ and `Code` text
+## 科研经历
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
