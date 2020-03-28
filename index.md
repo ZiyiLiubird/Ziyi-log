@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Ziyi Liu(刘子毅）
 
+<img src="刘子毅.jpg" width=256 height=290 />
 
 ## 教育经历：[武汉理工大学](http://www.whut.edu.cn/) 数学基地班( 本科三年级在读)
 
