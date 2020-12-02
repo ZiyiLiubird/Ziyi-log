@@ -6,6 +6,7 @@
 
 ## 教育经历：
 [武汉理工大学](http://www.whut.edu.cn/) 数学基地班(2017.9-2021.6)
+[南开大学](https://ai.nankai.edu.cn/index.htm) 控制科学与工程(2021.9-2024.6)
 - GPA:4.313/5
 - 专业排名：2/89;前2.25%
 ### 已修机器学习相关课程：
@@ -16,7 +17,6 @@
 ## 获奖情况：
 - 2019年美国大学生数学建模竞赛Meritorious Winner
 - 2019年MathorCup数学建模竞赛二等奖
-- 2019年CCF CSP专业组认证210分
 - 2019年校三好学生
 - 2018年华中地区数学建模竞赛三等奖
 - 2018年校三好学生
@@ -26,16 +26,21 @@
 - 编程：
 C++、Python、Matlab
 - 深度学习框架：
-Pytorch  Tensorflow
+Pytorch  Paddlepaddle
 ## 研究兴趣：
-- 深度学习泛化理论
-- 无监督学习
 - 强化学习
-- 计算机视觉
-- 信息检索
+- 深度学习
+- 运筹优化
 
 
-## 科研经历
+## 夏令营
+- 2019年DeeCamp人工智能训练营，南京大学，Team40自动驾驶
+- 2020年复旦大学“数据科学的应用与创新”暑期学校
+- 2020年ByteCamp机器学习夏令营，上海，推荐系统与模型蒸馏
+
+## 发表论文
+《Discriminative Deep Asymmetric Supervised Hashing for Cross-Modal Retrieval》，Knowledge-Based Systems
+
 
 
 
